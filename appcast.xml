@@ -3,9 +3,9 @@
   <channel>
     <title>QuickTools</title>
     <item xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
-      <title>QuickTools 1.3.0</title>
+      <title>QuickTools 1.3.4</title>
       <description>
-&lt;h3&gt;QuickTools 1.3.0&lt;/h3&gt;
+&lt;h3&gt;QuickTools 1.3.4&lt;/h3&gt;
 &lt;p&gt;New release of QuickTools with essential developer tools for your menu bar.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;✅ Code Signed with Apple Developer ID&lt;/li&gt;
@@ -14,8 +14,8 @@
 &lt;/ul&gt;
 </description>
       <pubDate>Wed, 30 Jul 2025 05:22:37 +0000</pubDate>
-      <ns0:version>130</ns0:version>
-      <ns0:shortVersionString>1.3.0</ns0:shortVersionString>
+      <ns0:version>134</ns0:version>
+      <ns0:shortVersionString>1.3.4</ns0:shortVersionString>
       <ns0:minimumSystemVersion>13.0</ns0:minimumSystemVersion>
       <enclosure url="https://github.com/shadster-devs/QuickTools/releases/download/v1.3.0/QuickTools-1.3.0.zip" ns0:edSignature="PLACEHOLDER_SIGNATURE_INSTALL_SPARKLE" length="1794156" type="application/octet-stream" />
     </item>
